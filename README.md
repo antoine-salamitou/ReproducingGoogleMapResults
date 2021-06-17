@@ -1,5 +1,5 @@
 # ReproducingCityMapperTransportationAppsResults
-Using Neo4j graph database, I tried to reproduce the results provided by the transportation app Citymapper (Google Map alike).
+Using Neo4j graph database, I tried to reproduce the results provided by the transportation app Citymapper (Google Maps alike).
 Data is provided in a GTFS format 
 Data preprocessing
 database creation
