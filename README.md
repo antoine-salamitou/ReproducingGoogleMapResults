@@ -4,4 +4,4 @@ Data is provided in a GTFS format
 Data preprocessing
 database creation
 custom Dijkstra's algorithm 
-- Walthrough : https://github.com/antoines20/ReproducingCityMapperTransportationAppsResults/blob/main/CityMapperReproduceWalkthrough.pdf`
+- Walthrough : https://github.com/antoines20/ReproducingCityMapperTransportationAppsResults/blob/main/CityMapperReproduceWalkthrough.pdf
